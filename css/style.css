@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+}
+
+.head{
+	font-family: sans-serif;
+	font-size: 55px;
+	color: #00a6ff;
+}
+
+.main{
+	background: #02a9a6;
+}
+
+.container{
+	background: #e1fafa;
+}
+
+.input{
+	text-transform: capitalize;
+	color: #ffffff !important;
+	background: #00a6ff !important;
+	font-family: 'Sansita Swashed', cursive;
+	font-weight: 300 !important;
+}
+
+.user{
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.card-title{
+	font-family: cursive;
+	font-size: 30px;
+	color: #00a6ff;
+}
+#result{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 10px;
+}
+.user-card{
+	width: 150px !important;
+	height: 90px !important;
+	margin-left: 10px !important;
+	
+}
